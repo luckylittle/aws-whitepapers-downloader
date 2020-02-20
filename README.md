@@ -233,6 +233,10 @@
 |Whitepapers   |207       |
 |All files size|158.7 MB  |
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/luckylittle/aws-whitepapers-downloader.svg)](https://starchart.cc/luckylittle/aws-whitepapers-downloader)
+
 ---
 
 [@luckylittle](https://github.com/luckylittle) <<lucian@redhat.com>>
